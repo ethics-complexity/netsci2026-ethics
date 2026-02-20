@@ -17,7 +17,9 @@ header:
 
 ## Description {#description}
 
-A half-day satellite at NetSci 2026 creating space for the network science community to reflect on ethical challenges that arise when studying complex, socially embedded systems.
+Network science studies systems of interconnected entities whose collective behavior often emerges in complex, adaptive, and unpredictable ways. As the field increasingly engages with data-rich, socially embedded, and policy-relevant domains, it raises distinctive ethical questions that do not always fit neatly within traditional frameworks. Issues such as distributed responsibility, emergent harm, data sensitivity, and the societal impacts of modeling and intervention require careful reflection within the research community.
+
+This half-day satellite aims to create space for the Network Science community to engage in an open dialogue about the ethical dimensions of research, teaching, and practice. Through keynote talks, interactive discussions, and community contributions, participants will share experiences, identify challenges, and explore practical approaches to conducting responsible and socially informed network science.
 
 {: .notice--info}
 **Time/Place:** Sunday, June 1, 2026 · Boston, MA · (room TBD)  
@@ -29,10 +31,10 @@ A half-day satellite at NetSci 2026 creating space for the network science commu
 
 | Time | Session |
 |---:|---|
-| 1:30–1:40 | Welcome & Introduction EDIT FOR TEST|
-| 1:40–2:10 | Keynote #1 (TBD) |
+| 1:30–1:40 | Welcome & Introduction|
+| 1:40–2:10 | Keynote - TBD |
 | 2:10–2:30 | Interactive Activity #1 |
-| 2:30–3:00 | Keynote #2 (TBD) |
+| 2:30–3:00 | Keynote - TBD |
 | 3:00–3:30 | Coffee Break |
 | 3:30–3:45 | Lightning talks |
 | 3:45–4:15 | Inderactive Activity #2 |
@@ -46,16 +48,16 @@ A half-day satellite at NetSci 2026 creating space for the network science commu
 <div class="speaker-card">
   <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
   <div>
-    <h3 class="speaker-card__name">Keynote #1: TBD</h3>
+    <h3 class="speaker-card__name">Keynote: TBD</h3>
     <p class="speaker-card__affil"><em>Affiliation</em></p>
-    <p>Short bio or talk abstract goes here. (2–4 sentences is perfect.)</p>
+    <p>Short bio or talk abstract goes here.</p>
   </div>
 </div>
 
 <div class="speaker-card">
   <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
   <div>
-    <h3 class="speaker-card__name">Keynote #2: TBD</h3>
+    <h3 class="speaker-card__name">Keynote: TBD</h3>
     <p class="speaker-card__affil"><em>Affiliation</em></p>
     <p>Short bio or talk abstract goes here.</p>
   </div>
@@ -67,7 +69,7 @@ A half-day satellite at NetSci 2026 creating space for the network science commu
 
 <div class="organizer-grid">
   <div class="organizer">
-    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Samantha Dies">
+    <img class="organizer__photo" src="{{ '/assets/images/people/samanthadies.jpg' | relative_url }}" alt="Samantha Dies">
     <p class="organizer__name">Samantha Dies</p>
     <p class="organizer__affil">Northeastern University (USA)</p>
   </div>
