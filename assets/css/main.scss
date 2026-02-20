@@ -93,10 +93,22 @@
   text-decoration-color: rgba(0,0,0,0.6);
 }
 
-/* Force full-width content (no sidebar column) */
-.layout--single .sidebar { display: none !important; }
-.layout--single .initial-content,
-.layout--single .page__content {
+/* Absolutely remove any sidebar column */
+.sidebar,
+.page__sidebar {
+  display: none !important;
+}
+
+/* Expand content area */
+.initial-content,
+.page__content,
+.archive,
+.page {
   width: 100% !important;
-  float: none !important;
+  max-width: 100% !important;
+}
+
+/* Some skins use grid */
+.layout--single .page {
+  grid-template-columns: 1fr !important;
 }
