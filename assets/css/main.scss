@@ -90,3 +90,11 @@
 .page__footer a:hover {
   text-decoration-color: rgba(0,0,0,0.6);
 }
+
+/* Force full-width content (no sidebar column) */
+.layout--single .sidebar { display: none !important; }
+.layout--single .initial-content,
+.layout--single .page__content {
+  width: 100% !important;
+  float: none !important;
+}
