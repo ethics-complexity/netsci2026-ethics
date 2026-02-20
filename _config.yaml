@@ -2,8 +2,8 @@ title: "Ethics in Network Science Research & Practice"
 description: "NetSci 2026 Satellite · Boston · Sunday, June 1, 2026"
 
 # Set these two correctly:
-url: "https://YOUR-ORG-NAME.github.io"
-baseurl: "/ethics-complexity"
+url: "https://ethics-complexity.github.io"
+baseurl: "/netsci2026-ethics"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
