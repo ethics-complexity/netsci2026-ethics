@@ -116,7 +116,7 @@ This half-day satellite aims to create space for the Network Science community t
   <div class="organizer">
     <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Ana Maria Jaramillo">
     <p class="organizer__name">Ana Maria Jaramillo</p>
-    <p class="organizer__affil">TU Graz; the Complexity Science Hub Vienna (Austria)</p>
+    <p class="organizer__affil">TU Graz and the Complexity Science Hub Vienna (Austria)</p>
   </div>
 
   <div class="organizer">
@@ -128,7 +128,7 @@ This half-day satellite aims to create space for the Network Science community t
   <div class="organizer">
     <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Gabriele Di Bona">
     <p class="organizer__name">Gabriele Di Bona</p>
-    <p class="organizer__affil">??</p>
+    <p class="organizer__affil">CNRS and SONY CS (Italy)L</p>
   </div>
 
   <!-- repeat for others -->
