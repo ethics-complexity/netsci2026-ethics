@@ -73,9 +73,10 @@
 
 .organizer__affil {
   margin: 0.15rem 0 0 0;
-  font-size: 0.75rem;
-  line-height: 1.25;
+  font-size: 0.70rem !important;
+  line-height: 1.25 !important;
   opacity: 0.7;
+  background: yellow !important;
 }
 
 /* Footer override */
@@ -93,22 +94,43 @@
   text-decoration-color: rgba(0,0,0,0.6);
 }
 
-/* Absolutely remove any sidebar column */
+/* ============================
+   Force full-width single page
+   (kill any sidebar / TOC col)
+   ============================ */
+
+/* Hide all known sidebar variants */
 .sidebar,
-.page__sidebar {
+.page__sidebar,
+.sidebar__right,
+.sidebar__left,
+.toc,
+.toc__menu,
+.sticky,
+.sticky--enabled {
   display: none !important;
 }
 
-/* Expand content area */
-.initial-content,
-.page__content,
-.archive,
-.page {
+/* Remove reserved layout space (grid + float variants) */
+.layout--single .page,
+.layout--single .page__inner-wrap,
+.layout--single .initial-content,
+.layout--single .archive,
+.layout--single .page__content {
   width: 100% !important;
   max-width: 100% !important;
+  float: none !important;
 }
 
-/* Some skins use grid */
+/* Grid layouts sometimes define explicit columns */
 .layout--single .page {
   grid-template-columns: 1fr !important;
+}
+
+/* Some builds use padding to reserve sidebar space */
+.layout--single .initial-content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
