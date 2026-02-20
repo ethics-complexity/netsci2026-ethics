@@ -1,0 +1,77 @@
+---
+---
+@import "minimal-mistakes";
+
+/* ------------- */
+/* Speaker cards */
+/* ------------- */
+.speaker-card {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.speaker-card__photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+  object-fit: cover;
+  flex: 0 0 auto;
+  background: rgba(255,255,255,0.35);
+}
+
+.speaker-card__name {
+  margin: 0;
+}
+
+.speaker-card__affil {
+  margin: 0.15rem 0 0.6rem 0;
+  opacity: 0.85;
+}
+
+/* On small screens, stack */
+@media (max-width: 640px) {
+  .speaker-card {
+    flex-direction: column;
+  }
+  .speaker-card__photo {
+    width: 96px;
+    height: 96px;
+  }
+}
+
+/* ---------------- */
+/* Organizer grid   */
+/* ---------------- */
+.organizer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+.organizer {
+  text-align: center;
+}
+
+.organizer__photo {
+  width: 88px;
+  height: 88px;
+  border-radius: 999px;
+  object-fit: cover;
+  margin: 0 auto 0.5rem auto;
+  background: rgba(255,255,255,0.35);
+}
+
+.organizer__name {
+  font-weight: 600;
+  margin: 0;
+}
+
+.organizer__affil {
+  margin: 0.2rem 0 0 0;
+  font-size: 0.9em;
+  opacity: 0.85;
+}
