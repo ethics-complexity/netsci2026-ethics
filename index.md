@@ -43,20 +43,67 @@ A half-day satellite at NetSci 2026 creating space for the network science commu
 
 ## Speakers {#speakers}
 
-- **Keynote:** TBD  
-- **Panelists:** TBD
+<div class="speaker-card">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
+  <div>
+    <h3 class="speaker-card__name">Keynote #1: TBD</h3>
+    <p class="speaker-card__affil"><em>Affiliation</em></p>
+    <p>Short bio or talk abstract goes here. (2–4 sentences is perfect.)</p>
+  </div>
+</div>
+
+<div class="speaker-card">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
+  <div>
+    <h3 class="speaker-card__name">Keynote #2: TBD</h3>
+    <p class="speaker-card__affil"><em>Affiliation</em></p>
+    <p>Short bio or talk abstract goes here.</p>
+  </div>
+</div>
 
 ---
 
 ## Organizers {#organizers}
 
-- Samantha Dies (Northeastern University, USA)
-- Evelyn Panagakou (Northeastern University, USA)
-- Yasaman Asgari (University of Zurich, Switzerland)
-- Ana Maria Jaramillo (TU Graz; the Complexity Science Hub Vienna, Austria)
-- Ana Maria de Sousa Leitão (University of Lisbon, Portugal)
-- Gabriele Di Bona
+<div class="organizer-grid">
+  <div class="organizer">
+    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Samantha Dies">
+    <p class="organizer__name">Samantha Dies</p>
+    <p class="organizer__affil">Northeastern University (USA)</p>
+  </div>
 
+  <div class="organizer">
+    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Evelyn Panagakou">
+    <p class="organizer__name">Evelyn Panagakou</p>
+    <p class="organizer__affil">Northeastern University (USA)</p>
+  </div>
+
+  <div class="organizer">
+    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Yasaman Asgari">
+    <p class="organizer__name">Yasaman Asgari</p>
+    <p class="organizer__affil">University of Zurich (Switzerland)</p>
+  </div>
+
+  <div class="organizer">
+    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Ana Maria Jaramillo">
+    <p class="organizer__name">Ana Maria Jaramillo</p>
+    <p class="organizer__affil">TU Graz; the Complexity Science Hub Vienna (Austria)</p>
+  </div>
+
+  <div class="organizer">
+    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Ana Maria de Sousa Leitão">
+    <p class="organizer__name">Ana Maria de Sousa Leitão</p>
+    <p class="organizer__affil">University of Lisbon (Portugal)</p>
+  </div>
+
+  <div class="organizer">
+    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Gabriele Di Bona">
+    <p class="organizer__name">Gabriele Di Bona</p>
+    <p class="organizer__affil">??</p>
+  </div>
+
+  <!-- repeat for others -->
+</div>
 ---
 
 ## Contact {#contact}
