@@ -63,6 +63,33 @@ This half-day satellite aims to create space for the Network Science community t
   </div>
 </div>
 
+<div class="speaker-card">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
+  <div>
+    <h3 class="speaker-card__name">Panelist: TBD</h3>
+    <p class="speaker-card__affil"><em>Affiliation</em></p>
+    <p>Short bio goes here.</p>
+  </div>
+</div>
+
+<div class="speaker-card">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
+  <div>
+    <h3 class="speaker-card__name">Panelist: TBD</h3>
+    <p class="speaker-card__affil"><em>Affiliation</em></p>
+    <p>Short bio goes here.</p>
+  </div>
+</div>
+
+<div class="speaker-card">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
+  <div>
+    <h3 class="speaker-card__name">Panelist: TBD</h3>
+    <p class="speaker-card__affil"><em>Affiliation</em></p>
+    <p>Short bio goes here.</p>
+  </div>
+</div>
+
 ---
 
 ## Organizers {#organizers}
