@@ -12,6 +12,10 @@ plugins:
 
 minimal_mistakes_skin: "mint"   # try "air", "contrast", "default", "dark", etc.
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Optional but nice defaults for a clean single-page site
 defaults:
   - scope:
