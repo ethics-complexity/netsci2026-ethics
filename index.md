@@ -29,7 +29,7 @@ A half-day satellite at NetSci 2026 creating space for the network science commu
 
 | Time | Session |
 |---:|---|
-| 1:30–1:40 | Welcome & Introduction |
+| 1:30–1:40 | Welcome & Introduction EDIT FOR TEST|
 | 1:40–2:10 | Keynote #1 (TBD) |
 | 2:10–2:30 | Interactive Activity #1 |
 | 2:30–3:00 | Keynote #2 (TBD) |
