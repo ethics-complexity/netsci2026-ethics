@@ -20,3 +20,5 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
+      toc: false
+      sidebar: null
