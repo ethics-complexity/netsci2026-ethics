@@ -3,6 +3,12 @@ title: "Ethics in Network Science Research & Practice"
 layout: single
 classes: wide
 
+toc: false
+
+sidebar:
+  nav: false
+  sticky: false
+
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.35
