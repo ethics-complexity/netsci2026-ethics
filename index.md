@@ -37,7 +37,7 @@ This half-day satellite aims to create space for the Network Science community t
 | 2:30–3:00 | Keynote - TBD |
 | 3:00–3:30 | Coffee Break |
 | 3:30–3:45 | Lightning talks |
-| 3:45–4:15 | Inderactive Activity #2 |
+| 3:45–4:15 | Interactive Activity #2 |
 | 4:15–5:00 | Panel Discussion |
 | 5:00–5:15 | Closing Remarks |
 
