@@ -126,9 +126,9 @@ This half-day satellite aims to create space for the Network Science community t
   </div>
 
   <div class="organizer">
-    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Gabriele Di Bona">
+    <img class="organizer__photo" src="{{ '/assets/images/people/gabrieledibona.jpg' | relative_url }}" alt="Gabriele Di Bona">
     <p class="organizer__name">Gabriele Di Bona</p>
-    <p class="organizer__affil">CNRS and SONY CS (Italy)</p>
+    <p class="organizer__affil">CNRS (France) and SONY CSL (Italy)</p>
   </div>
 
   <!-- repeat for others -->
