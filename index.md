@@ -108,7 +108,7 @@ This half-day satellite aims to create space for the Network Science community t
   </div>
 
   <div class="organizer">
-    <img class="organizer__photo" src="{{ '/assets/images/people/yasamanasgari.jpg' | relative_url }}" alt="Yasaman Asgari">
+    <img class="organizer__photo" src="{{ '/assets/images/people/yasamanasgari.JPG' | relative_url }}" alt="Yasaman Asgari">
     <p class="organizer__name">Yasaman Asgari</p>
     <p class="organizer__affil">University of Zurich (Switzerland)</p>
   </div>
