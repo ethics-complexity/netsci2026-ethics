@@ -29,13 +29,13 @@ This half-day satellite aims to create space for the Network Science community t
 
 ## Call for Submissions {#submission}
 
-{: .notice--info}
 ### Flash Talks
 **Deadline: May 5th, 2026**
 
 We invite submissions for short flash talks (5 minutes) on ethical questions, challenges, and experiences related to network science research, teaching, and practice. The goal of this session is to create space for community members to share perspectives on the ethical dimensions of their work, broadly construed. Flash talks may present work in progress, case studies, teaching experiences, methodological reflections, or open questions related to responsible research in network science. To submit, please provide a title and short abstract via the form below. Talks will be selected by the organizers to ensure a diverse range of topics and perspectives.
 
-Submit here: 
+[[Submit Here](https://docs.google.com/forms/d/e/1FAIpQLScndpHP53GovtOMeAaVuveLt1sZV_LtT1wbO95a6qX3LMgImQ/viewform?usp=sharing&ouid=100297494455715980242)]
+
 For questions, please contact the organizers [here](mailto:dies.s@northeastern.com).
 
 ---
