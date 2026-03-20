@@ -120,7 +120,7 @@ This half-day satellite aims to create space for the Network Science community t
   </div>
 
   <div class="organizer">
-    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Ana Maria de Sousa Leitão">
+    <img class="organizer__photo" src="{{ '/assets/images/people/analeitao.jpg' | relative_url }}" alt="Ana Maria de Sousa Leitão">
     <p class="organizer__name">Ana Maria de Sousa Leitão</p>
     <p class="organizer__affil">University of Lisbon (Portugal)</p>
   </div>
