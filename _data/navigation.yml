@@ -1,6 +1,8 @@
 main:
   - title: "Description"
     url: /#description
+  - title: "Submission"
+    url: /#submission
   - title: "Schedule"
     url: /#schedule
   - title: "Speakers"
