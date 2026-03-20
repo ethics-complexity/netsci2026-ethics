@@ -141,4 +141,4 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 
 ## Contact {#contact}
 
-Email: **TBD**
+Email: [dies.s@northeastern.edu](mailto:dies.s@northeastern.com)
