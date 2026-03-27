@@ -45,9 +45,9 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 | Time | Session |
 |---:|---|
 | 2:30–2:40 | Welcome & Introduction|
-| 2:40–3:10 | Keynote - Dr. John Basl|
-| 3:10–3:30 | Interactive Activity #1 |
-| 3:30–4:00 | Keynote - Dr. Juniper Lovato|
+| 2:40–3:15 | Keynote - Dr. John Basl|
+| 3:15-3:50 | Keynote - Dr. Juniper Lovato|
+| 3:50–4:00 | Interactive Activity #1|
 | 4:00–4:30 | Coffee Break |
 | 4:30–4:45 | Lightning talks |
 | 4:45–5:15 | Interactive Activity #2 |
