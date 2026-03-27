@@ -118,7 +118,7 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
   </div>
 
   <div class="organizer">
-    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Ana Maria Jaramillo">
+    <img class="organizer__photo" src="{{ '/assets/images/people/anamariajaramillo.png' | relative_url }}" alt="Ana Maria Jaramillo">
     <p class="organizer__name">Ana Maria Jaramillo</p>
     <p class="organizer__affil">TU Graz and the Complexity Science Hub Vienna (Austria)</p>
   </div>
