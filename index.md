@@ -59,7 +59,7 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 ## Speakers {#speakers}
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/johnbasl.jpg' | relative_url }}" alt="TBD headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/johnbasl.jpg' | relative_url }}" alt="John Basl headshot">
   <div>
     <h3 class="speaker-card__name">Keynote & Panelist: Dr. John Basl</h3>
     <p class="speaker-card__affil"><em>Northeastern University</em></p>
@@ -68,7 +68,7 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 </div>
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/juniperlovato.jpg' | relative_url }}" alt="TBD headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/juniperlovato.jpg' | relative_url }}" alt="Juniper Lovato headshot">
   <div>
     <h3 class="speaker-card__name">Keynote & Panelist: Dr. Juniper Lovato</h3>
     <p class="speaker-card__affil"><em>University of Vermont</em></p>
