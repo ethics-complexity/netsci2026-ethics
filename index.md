@@ -10,7 +10,7 @@ sidebar:
   sticky: false
 
 header:
-  overlay_image: /assets/images/banner_v2.jpg
+  overlay_image: /assets/images/banner_v3.png
   overlay_filter: 0.35
   caption: "NetSci 2026 Satellite · Boston · Tuesday, June 2, 2026" 
 ---
