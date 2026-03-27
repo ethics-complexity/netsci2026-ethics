@@ -106,7 +106,7 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
   </div>
 
   <div class="organizer">
-    <img class="organizer__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="Evelyn Panagakou">
+    <img class="organizer__photo" src="{{ '/assets/images/people/evelynpanagakou.jpg' | relative_url }}" alt="Evelyn Panagakou">
     <p class="organizer__name">Evelyn Panagakou</p>
     <p class="organizer__affil">Northeastern University (USA)</p>
   </div>
