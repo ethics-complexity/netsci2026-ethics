@@ -59,20 +59,20 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 ## Speakers {#speakers}
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/johnbasl.jpg' | relative_url }}" alt="John Basl headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/johnbasl.jpg' | relative_url }}" alt="TBD headshot">
   <div>
-    <h3 class="speaker-card__name">Keynote & Panelist: Dr. John Basl</h3>
+    <h3 class="speaker-card__name">Keynote + Panelist: Dr. John Basl</h3>
     <p class="speaker-card__affil"><em>Northeastern University</em></p>
     <p>John Basl is Associate Professor of Philosophy at Northeastern University, the College of Social Sciences and Humanities Dean's Leadership Fellow for AI & Data Ethics, and an Associate Director of the Northeastern Ethics Institute where he leads AI & Data Ethics Initiatives. He works in and teaches AI ethics and moral philosophy. He is ethics co-lead of the National Internet Observatory and co-lead of the AI + Data Ethics Summer Graduate Training Program (AIDE Summer).</p>
   </div>
 </div>
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/juniperlovato.jpg' | relative_url }}" alt="Juniper Lovato headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
   <div>
-    <h3 class="speaker-card__name">Keynote & Panelist: Dr. Juniper Lovato</h3>
-    <p class="speaker-card__affil"><em>University of Vermont</em></p>
-    <p>Juniper Lovato is an Assistant Professor of Computer Science at the University of Vermont and a member of the Vermont Complex Systems Institute, where she leads the Computational Ethics Lab. She is also an External Faculty at the Complexity Science Hub in Vienna. Her research spans the ethics and governance of data, AI, and technology, with a focus on fairness, accountability, transparency, and the science of stories. Drawing on methods from computational social science, natural language processing, network science, and complex systems, she studies how sociotechnical systems, composed of humans and technologies, mutually shape one another, influencing human values, institutions, and narratives.</p>
+    <h3 class="speaker-card__name">Keynote: TBD</h3>
+    <p class="speaker-card__affil"><em>Affiliation</em></p>
+    <p>Short bio or talk abstract goes here.</p>
   </div>
 </div>
 
