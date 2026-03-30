@@ -143,8 +143,20 @@
   background-color: #e6ddf3 !important;   /* pale purple */
   border-left: 6px solid #7a6bb3 !important;
   color: #2f2a44 !important;
+  font-size: 2.0rem !important;
+  line-height: 2.5 !important;
 }
 
 .notice--info a {
   color: #4b3f8f !important;
+}
+
+.notice--info p {
+  font-size: 2.0rem !important;
+  line-height: 2.5 !important;
+  margin: 0.35rem 0 !important;
+}
+
+.notice--info strong {
+  font-size: 1.05em;
 }
