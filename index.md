@@ -22,7 +22,7 @@ Network science studies systems of interconnected entities whose collective beha
 This half-day satellite aims to create space for the Network Science community to engage in an open dialogue about the ethical dimensions of research, teaching, and practice. Through keynote talks, interactive discussions, and community contributions, participants will share experiences, identify challenges, and explore practical approaches to conducting responsible and socially informed network science.
 
 {: .notice--info}
-**Time/Place:** Tuesday, June 2, 2026  2:30-6:00 PM· Boston, MA · (room TBD)  
+**Time/Place:** Tuesday, June 2, 2026  2:30-6:00 PM · Boston, MA · (room TBD)  
 **Format:** Keynote + Panel + Interactive Breakout Discussions + Lightning Talks
 
 ---
@@ -36,7 +36,7 @@ We invite submissions for short flash talks (5 minutes) on ethical questions, ch
 
 [[Submit Here](https://docs.google.com/forms/d/e/1FAIpQLScndpHP53GovtOMeAaVuveLt1sZV_LtT1wbO95a6qX3LMgImQ/viewform?usp=sharing&ouid=100297494455715980242)]
 
-For questions, please contact the organizers [here](mailto:dies.s@northeastern.com).
+For questions, please [email the organizers](mailto:dies.s@northeastern.edu,e.panagakou@northeastern.edu).
 
 ---
 
@@ -141,4 +141,4 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 
 ## Contact {#contact}
 
-Email: [dies.s@northeastern.edu](mailto:dies.s@northeastern.com)
+[Email the organizers](mailto:dies.s@northeastern.edu,e.panagakou@northeastern.edu)
