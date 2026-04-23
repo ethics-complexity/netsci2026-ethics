@@ -77,7 +77,7 @@ For questions, please [email the organizers](mailto:dies.s@northeastern.edu,e.pa
 </div>
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/akrati_saxena.jpg' | relative_url }}" alt="Akrati Saxena headshot">
   <div>
     <h3 class="speaker-card__name">Panelist: Dr. Akrati Saxena</h3>
     <p class="speaker-card__affil"><em>Leiden University, University of Victoria</em></p>
