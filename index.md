@@ -79,9 +79,9 @@ For questions, please [email the organizers](mailto:dies.s@northeastern.edu,e.pa
 <div class="speaker-card">
   <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
   <div>
-    <h3 class="speaker-card__name">Panelist: TBD</h3>
-    <p class="speaker-card__affil"><em>Affiliation</em></p>
-    <p>Short bio goes here.</p>
+    <h3 class="speaker-card__name">Panelist: Dr. Akrati Saxena</h3>
+    <p class="speaker-card__affil"><em>Leiden University, University of Victoria</em></p>
+    <p>Dr. Akrati Saxena is an Assistant Professor at the Leiden Institute of Advanced Computer Science, Leiden University, and an Adjunct Professor at the University of Victoria, Canada. Her research lies at the intersection of social network analysis, complex networks, computational social science, data science, and algorithmic fairness. She established and leads the [[AlFa research group](https://alfa.liacs.nl/)], which focuses on understanding structural inequalities in complex networks and advancing fairness-aware algorithms in network and data science, including analyzing biases in existing systems, defining fairness constraints and evaluation metrics, and designing fair computational frameworks. The AlFa group has developed fairness-aware heuristic, approximation, machine learning, and deep learning-based methods for downstream network analysis tasks, such as link prediction, community detection, and influence modeling, and has also recently focused on reproducibility in computational research. She is actively building a research community around algorithmic fairness in network science and has organized several satellite events, thematic sessions, and tutorials to support this effort. She is an Associate Editor for SNAM and the PLOS Complex Systems journals. In addition to her research, she serves on the Diversity Committee at LIACS, contributing to initiatives that foster inclusion and equity within the academic community.</p>
   </div>
 </div>
 
