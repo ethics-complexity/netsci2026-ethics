@@ -90,7 +90,7 @@ For questions, please [email the organizers](mailto:dies.s@northeastern.edu,e.pa
 </div>
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/samscarpino.jpg' | relative_url }}" alt="Sam Scarpino headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/samscarpino.jpeg' | relative_url }}" alt="Sam Scarpino headshot">
   <div>
     <h3 class="speaker-card__name">Panelist: Dr. Sam Scarpino</h3>
     <p class="speaker-card__affil"><em>Northeastern University</em></p>
