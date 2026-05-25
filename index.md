@@ -49,7 +49,8 @@ For questions, please [email the organizers](mailto:dies.s@northeastern.edu,e.pa
 | 3:15–3:50 | Keynote: Dr. Juniper Lovato |
 | 3:50–4:00 | Interactive Activity #1|
 | 4:00–4:30 | Coffee Break |
-| 4:30–4:45 | Lightning Talks<br>Anne Kavalerchik, “What is a case? Clarifying universality in network research”<br>Mackay Price, “From Ethical Principles to Ethical Practice: The Politics of Network Science”<br>Sagar Kumar, “The Right to Meaning” || 4:45–5:15 | Interactive Activity #2 |
+| 4:30–4:45 | Lightning Talks<br>Anne Kavalerchik, “What is a case? Clarifying universality in network research”<br>Mackay Price, “From Ethical Principles to Ethical Practice: The Politics of Network Science”<br>Sagar Kumar, “The Right to Meaning” |
+| 4:45–5:15 | Interactive Activity #2 |
 | 5:15–6:00 | Panel Discussion<br>Dr. John Basl · Dr. Juniper Lovato · Dr. Akrati Saxena · Dr. Sam Scarpino |
 | 6:00–6:15 | Closing Remarks |
 
