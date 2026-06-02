@@ -146,4 +146,5 @@ For questions, please [email the organizers](mailto:dies.s@northeastern.edu,e.pa
 ## Contact {#contact}
 
 [Email the organizers](mailto:dies.s@northeastern.edu,e.panagakou@northeastern.edu), or
+
 [Visit our website](https://sites.google.com/view/ethics-and-complexity/home?authuser=0)
